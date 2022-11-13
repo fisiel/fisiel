@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 About me
 
-My name is Michał and I am an software engineer. 
+My name is Michał Ciesielski and I'm an software engineer. 
 
 I enjoy working on many stack layers but lately I'm focusing on embedded linux development and full stack web development.
 
