@@ -12,13 +12,13 @@ Feel free to reach out to me for general consulting or discussions on the topics
 
 ### 📈 GitHub statistics:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![profile count](https://komarev.com/ghpvc/?username=miccies3&label=Profile%20views&color=b40e96&style=flat)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![profile count](https://komarev.com/ghpvc/?username=fisiel&label=Profile%20views&color=b40e96&style=flat)&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Anurag's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=miccies3&show_icons=true&theme=synthwave&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Anurag's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=fisiel&show_icons=true&theme=synthwave&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miccies3&show_icons=true&theme=synthwave&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fisiel&show_icons=true&theme=synthwave&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=miccies3&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=fisiel&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## 🛠 Tech Stack
 
@@ -101,5 +101,5 @@ Feel free to reach out to me for general consulting or discussions on the topics
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/karolkawski/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:miccies.dev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail" /></a> &nbsp;
-[![GitHub miccies3](https://img.shields.io/github/followers/miccies3?label=follow&style=social)](https://github.com/miccies3)&nbsp;
+[![GitHub fisiel](https://img.shields.io/github/followers/fisiel?label=follow&style=social)](https://github.com/fisiel)&nbsp;
 
